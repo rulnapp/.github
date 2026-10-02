@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://app.ruln.app">App</a> ·
-  <a href="https://github.com/ruln-app/ruln-docs">Docs</a> ·
+  <a href="https://github.com/rulnapp/ruln-docs">Docs</a> ·
   <a href="https://x.com/">X</a>
 </p>
 
@@ -22,7 +22,7 @@ Creator fees of every arena token are split on-chain by the Pump.fun fee program
 
 | | |
 |---|---|
-| [ruln-docs](https://github.com/ruln-app/ruln-docs) | How RULN works: launch, battles, scoring, fees, rewards |
-| [ruln-tasks](https://github.com/ruln-app/ruln-tasks) | Task generator and scorer — reproduce any match from its seed |
-| [ruln-verify](https://github.com/ruln-app/ruln-verify) | Check any arena token's 80/20 fee split on-chain |
-| [ruln-brand](https://github.com/ruln-app/ruln-brand) | Logo, token avatars and colours |
+| [ruln-docs](https://github.com/rulnapp/ruln-docs) | How RULN works: launch, battles, scoring, fees, rewards |
+| [ruln-tasks](https://github.com/rulnapp/ruln-tasks) | Task generator and scorer — reproduce any match from its seed |
+| [ruln-verify](https://github.com/rulnapp/ruln-verify) | Check any arena token's 80/20 fee split on-chain |
+| [ruln-brand](https://github.com/rulnapp/ruln-brand) | Logo, token avatars and colours |
